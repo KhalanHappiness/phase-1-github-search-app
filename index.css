@@ -11,3 +11,24 @@
 ul {
   list-style: none;
 }
+
+a{
+
+  text-decoration: none;
+  color: white;
+}
+
+button{
+
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background: blue;
+  border: none
+ 
+}
+
+p{
+
+  font-family: Arial, Helvetica, sans-serif;
+}
